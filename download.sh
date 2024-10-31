@@ -1,7 +1,7 @@
 git clone https://github.com/letdummer/scripts.git
 
-mv header_make_script/header_make.sh $HOME
-rm -rf header_make_script
+mv scripts/header_make.sh $HOME
+rm -rf scripts
 
 RC_FILE="$HOME/.zshrc"
 
