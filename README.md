@@ -26,8 +26,8 @@ ham -n myheader.h -d ./srcs
 ham -n libft.h -d ~/libft 
 
 
-\#### Created by: jukim2 #42seoul ###
-### original thread in Slack: https://42born2code.slack.com/archives/CU6MTFBNH/p1675833318225219
+\#### Created by: jukim2 #42seoul \###\
+original thread in Slack: https://42born2code.slack.com/archives/CU6MTFBNH/p1675833318225219
 
 
 ____________________ English Version ____________________
@@ -54,5 +54,5 @@ ham -n myheader.h -d ./srcs
 ham -n libft.h -d ~/libft 
 
 
-\#### Created by: jukim2 #42seoul ###
-### original thread in Slack: https://42born2code.slack.com/archives/CU6MTFBNH/p1675833318225219
+\#### Created by: jukim2 #42seoul \###\
+original thread in Slack: https://42born2code.slack.com/archives/CU6MTFBNH/p1675833318225219
