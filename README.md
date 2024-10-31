@@ -11,7 +11,7 @@ o valor de NAME deve ser o seu nome de usuario do Intra
 
 ### Comando para download do script
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jukim2/header_make_script/main/download.sh)"
+bash -c "$(curl -fsSL https://github.com/letdummer/scripts.git)"
 
 
 Você pode nomear o cabeçalho a ser criado com a opção -n 
